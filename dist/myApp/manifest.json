@@ -1,0 +1,12 @@
+{
+  "title": "Sample dapp todos - array.io",
+  "main": "index.html",
+  "appName": "myApp",
+  "assets/": ["images/**"],
+  "icon": "images/favicon.png",
+  "preview": "images/thumb.png",
+  "categories": [
+    "tools"
+  ],
+  "permissions": []
+}
