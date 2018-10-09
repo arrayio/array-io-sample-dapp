@@ -1,0 +1,5 @@
+node_modules
+public/index.html
+public/assets
+dist/myApp/assets
+dist/myApp/index.html
